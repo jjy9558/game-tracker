@@ -1,0 +1,324 @@
+{
+  "updated": "2026-11-02",
+  "games": [
+    {
+      "id": "azur-promilia",
+      "name": "아주르 프로밀리아",
+      "nameEn": "Azur Promilia",
+      "developer": "Manjuu Games",
+      "publisher": "Nexon (KR)",
+      "genre": "오픈월드 판타지 RPG",
+      "platforms": [
+        "PC",
+        "iOS",
+        "Android",
+        "PS5"
+      ],
+      "status": "dated",
+      "releaseDate": "2026-11-26",
+      "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
+      "confidence": "high",
+      "news": [
+        {
+          "date": "2026-10-29",
+          "title": "넥슨 '아주르 프로밀리아', 숨겨둔 서브컬처의 낭만을 말하다 - 게임뷰",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HXzRqb003ZDZuZTNOS3B5aWxQSFMyNWs3UVN5c0ZVX2cwUkZUTFZvUnpoNVhTUzBEc3h0V1R0UXVzYm1COS0tQ2Z0VV8wVnZFeklvVzFnamNKcTlRSDlDMzROWUd0R3FjY2c?oc=5"
+        },
+        {
+          "date": "2026-10-29",
+          "title": "한국어 풀더빙부터 AGF까지 … 넥슨, ‘아주르 프로밀리아’ 현지화에 진심인 이유 - 경향게임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVkJxTWhyVll6LUdvTE1pSWx2ZjJXNkhnNkRFSWFXd2t1cWNZcnpzWXRqbDV2aEhWRmNzZWRaV214aHotMGRNdG8tN3NMUVNSOTJSRDJQbDBCU0JlR2p6eEVuZ1VvRm9vcDUzVg?oc=5"
+        },
+        {
+          "date": "2026-10-27",
+          "title": "검증 또 검증...'아주르 프로밀리아', CBT 담금질 거쳐 출격 채비 완료 - 플레이포럼",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WEN1TlNmbGVZejZRaHZHZ3RtaGpuX3RlSXdvWC1MR2ktX3FqRWVUZEw4Y1YwRkEtdnB3WG9LRnZOOWFPS3F2UHFldk9fZTUyM21nQzhIVi1vUjFGVWNZU0R4RkUtTnZ6amk2OA?oc=5"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "넥슨, 신작 RPG '아주르 프로밀리아' 다음달 26일 출시 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wcGZKbE4zeHpzbG9BeXlMR0hzWUdZZGZRMWtVcWdubW5kNlZmanpLZXB3RF8tUFRCOWtQU0p4T3JtRXdNSVpBb2o1SWFwRG9aMzVRTA?oc=5"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "아주르 프로밀리아, 11월 26일 국내 PC·모바일 출시 - 게임인",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaTBidDY4LUQwckdDeVNHS1U0QS1VUEppNmFyRk1NanE3M3p2dGJ4NWxKNEFOQVE0bnFkTzNVc3JQZWk5REk2VEt0SkxzN0dwaVVxRDdJZmcxUnpZY1B4WUZ3WjViaXhROEHSAW5BVV95cUxNbVZpS0EtUFhjT08zV1dYc1QyS0lFbWtNZllVTnQwZ1VlQ2ppSmZqUHYzOExEWnJOcWNYM05FUkhJREpxbmlTajlwT2FYZ3ZpRjUtZGRmNUxRZWlyM0FOZk9VZmZ2WVZ6R2hmVDBydw?oc=5"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "넥슨 ‘아주르 프로밀리아’, 11월 26일 국내 정식 출시…PC·모바일 지원 - FETV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96cVc3WTI1clBLQ0Yta0tjT3Q5NkZNX3FsSmM4VFRxMkZwQkNrQjZhcVlUYjZFQjZDdUU3akVxb2RaeHBHUFdwS2wzSTRnamV4ZmRmQ01DUU40eHBCSmt1RV9ZcnBvRTNH?oc=5"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "신비한 생물과 떠나는 판타지 여행…‘아주르 프로밀리아’ 출격[오늘의 게임 업데이트] - 서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MTWN4bkpaajRIWW5mUmsxOUwtSzZHRHVoWm5MWVlmeHgyY1loVEFnblVIMXZDSGZucVYzUEJzbTJYMGtsb0VhZ1Z4VkRFbVFnWkHSAVNBVV95cUxPVzBBUkxFb01vS2E4X1B1VElBQXhUZmdETkxBUV9vZ3FNZmV2SkY1ZWl1eVVTUDdNWlREdl9mamtaaU9zQ1ZMTTRiZnFWVWxGZE1TNA?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "11월 26일 한국·일본·대만·중국 정식 출시 확정",
+          "url": "https://www.gematsu.com/2026/10/azur-promilia-launches-november-26-in-japan-south-korea-taiwan-and-china"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨, 한국 11월 26일 출시 발표",
+          "url": "https://www.digitaltoday.co.kr/en/view/118855/nexon-to-launch-manjugames-fantasy-rpg-azur-promilia-in-south-korea-on-nov-26"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨, '아주르 프로밀리아' 11월 26일 국내 출시 - 디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LVWpENkJpbTdvT3pnR01YbVlBOVZGME9jRDVWbEVNSTE4RVZMT3pPR3BvemNqUjJQTEZwWmRrMUVWVlF1WVl6ZmpqUFVFUEY2R2lWc3E3S09xN2VSWXRtdDkyQVdwdw?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨 '아주르 프로밀리아' 11월 26일 출시... PC·모바일 한국어 풀더빙 - 전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Hby1uYzBQMEg5eW5jOGdiM2gyeVdpakJnUTlTclBQVkxUUmZNVVh5bHJlUlUzNEdyMWloYkJIVDQtTmJ6bUQtMnF4bFQ0Zw?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨, 기대의 서브컬처 게임 ‘아주르 프로밀리아’ 11월 26일 출시 - 녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93eHhWS3czQTQxTzJYZzNsRk43RXFJczV4cktqeTE0QnVPc1RkQU9rZG5LN2lsQjBlQTdLdUVFbDhvaWdMMkx2d0xqNWlSTmV3N3YwZ2VWcDhPSVhRQkRKZVlfaW1HY3Zt?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨, ‘아주르 프로밀리아’ 11월 26일 국내 출시 - 지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUmJSOW94UEZyd2hOc2pBdTFMN1BCVkVjanZpcGg4MmJqLVdRVFl1dm9ZUWZ6TWVRQ0Mwb2FXaUZidEVLUTVKYjBlMlRyMW1xZTFpN2ZR?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨 ‘아주르 프로밀리아’, 다음 달 26일 국내 출시 - 매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWFhXcFh3eFlTZnFPdzdKOWd6S0tSaDlXSnV5YnZqWUdSZERtVG9ad0R5Ml9SQ29zZURoZFVWT2F5VThpeHlhZDVKd1Rrb3hTb2hpeXVFd3RhQ25ZTjBlb0RWNVY?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "넥슨, '아주르 프로밀리아' 11월 26일 국내 정식 출시 - 매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhREllTUxWa1ByU1QzRWJrVFlRbGVrclRHdDMxUS16Nkxyd3Nta1NTS3E0Wl9xQ0hxQWh0MFpfa2lCclFlYkhYT3VzbEo0Y1FrVGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ananta",
+      "name": "무한대",
+      "nameEn": "Ananta (Project Mugen)",
+      "developer": "Naked Rain / NetEase Games",
+      "publisher": "NetEase Games",
+      "genre": "도시 오픈월드 RPG",
+      "platforms": [
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "status": "dated",
+      "releaseDate": "2027-01-15",
+      "releaseNote": "글로벌 출시일. 단일 커뮤니티 글 근거라 공식 확인 필요",
+      "confidence": "low",
+      "news": [
+        {
+          "date": "2026-08-27",
+          "title": "게임스컴 2026서 신규 PV 공개, 글로벌 출시일 1월 15일 (디시인사이드 글, 미검증)",
+          "url": "https://gall.dcinside.com/khgames/10018"
+        },
+        {
+          "date": "2026-08-18",
+          "title": "게임스컴 2026 오프닝 나이트 라이브 참가 발표",
+          "url": "https://mzh.moegirl.org.cn/ko/%E6%97%A0%E9%99%90%E5%A4%A7"
+        },
+        {
+          "date": "2025-09-24",
+          "title": "『무한대Ananta』 최신 정보: 애니메이션판 GTA? 아니면 지난 10년간의 오픈월드 총집합? - note",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MQXczb1V5RmNRRnZBRzVCTFRTWWRsM3JLUHRaQ2tEYm9Pc0ZROHVZZll3R2tSTThzNWxybW5EV3F3NHl3Rm5VVXlPZTFuNEpSeHZ0cWFrRWpHbDliREtlTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "silver-palace",
+      "name": "실버팰리스",
+      "nameEn": "Silver Palace",
+      "developer": "Silver Studio",
+      "publisher": "Elementa",
+      "community": [{ "title": "아카라이브 실버 팰리스 채널", "url": "https://arca.live/b/silverpalace" }],
+      "genre": "판타지 오픈월드 액션 RPG (F2P)",
+      "platforms": [
+        "PC",
+        "iOS",
+        "Android",
+        "PS5"
+      ],
+      "status": "dated",
+      "releaseDate": "2026-12-14",
+      "releaseNote": "글로벌 정식 출시 (PC·PS5·iOS·Android). 12/4~6 AGF 2026 스폰서 참가, 사전예약 진행 중",
+      "confidence": "high",
+      "news": [
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타 '실버팰리스' 12월 14일 글로벌 정식 출시 확정",
+          "url": "https://zdnet.co.kr/view/?no=20261102163139"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "실버 팰리스, 12월 14일 글로벌 정식 출시 (인벤)",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322847"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "중국 게임사 엘리멘타, '실버 팰리스' 12월 14일 출시 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VDA1UXJub29GMXhFcXp0MGpPdDRabnNpTW52RDBwaGZYTUE2SkVqbFp5X1hheTB5VVhWV1dXdUs1NnMtMHdyS05mS254V3JmOUJHWjBGcHkxdkXSAWBBVV95cUxPekNLZDJjVXFJU21FVHV4N3J2bkxsdFhtcXBaRVktLUJtNFFOSlVwUFBEM0dZVFVFS0NCMTdLYm5rZ1ljaEV4RzM1VGI3d3ZQQ0J4UndzaFBZNnRYRXp1TTI?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타 신작 '실버팰리스', 12월14일 글로벌 정식 출시 - 지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oNE92eU9yTWJDZzNaZ3cwcUJlOEw2TXE2VTJoeXlNeWZrWHM4TkFkdklodFRGcnI3SmRhRnYtUV9QVzRYTVVNa3RlZkNPN0hqTm01U1V3?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타 신작 '실버 팰리스' 12월 14일 글로벌 정식 출시 확정 - 게임와이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MERJckpBZ21qczB3aDhaV3h0X3M3Qk1xaml1ZGtoVTRiN3dBZ3lZQTJFelR3NXhIRU1PWXFwV3JWOVZuNHNLYTRGRmVrSzJUdVoydGt3X2FxZTMxbzdpTS1YTUxjRk9CUHfSAWpBVV95cUxQOTBESXJKQWdtanMwd2g4Wld4dF9zN0JNcWppdWRraFU0Yjd3QWd5WUEyRXpUdzV4SEVNT1lxcFdyVjlWbjRzS2E0RkZla0syVHVaMnRrd19hcWUzMW83aU0tWE1MY0ZPQlB3?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "탐정이 된 서브컬처 RPG…`실버 팰리스`, 12월14일 글로벌 출시 - 디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qWmZxVXRWQmE2QVc3VWwzVjJ4eEl1MnZCU3FKT1dJc3Y3R25LTktvb20xX3FaR1dKdXVRbjNpM0ZXcHJBT1pjbzVSWnpCVWFaU0U1dWZGLVlNWjByeG1oY0FMRXg?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타, 실버 팰리스 12월 14일 글로벌 정식 출시 - 베타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BU1BfdWVrcmJ6bndkeEJ4UEFnakIyNWhESE9hS0U4MHA0S2dnb0JZS0R2UTBDV2FldWI5UEtjS25zWkdubHpRS1k0SXZqSEhWTlQzREQzTS1vRU42ZmNsRkliRHo?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타 '실버 팰리스' 12월 출시…게임업계, 신작·AI·글로벌 행사 확대 - 팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVXhBOFVBNU5WOUVRd2pmN0VPeDFCVFpqZWJCOHVWNnl1U25HV2g1aTlpR2hjQTlqZS1PSzkyU3FMamR3bnNQMVAwVlNlc1FVYW5DbkJ6bHdfSi0yTnIzajBkSDc1TU9Ubkc0VlVLY9IBckFVX3lxTFBzb1VKNXlhNl9sZlhVUFBIS3VQNTN6Y1Bfb3pFVTBYcy1SUjh1ZHU0bG00Tmd0eGtlMFpGLWh2QlFLRUNxTHRxQWtUeGNhOXh3d1ZTX21HVWlHUmt4c1BnWmx0TUFGX2xHMGFxVGs0NnFlUQ?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "글로벌 '정식 출시' 확정…엘리멘타, ‘실버 팰리스’ 출시 - 한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvRGgyWW9rX1hCWlBid3FxZ292UWNPcURXNmFRNEVRaUFjS2JfSFNNZkVuZVE0Z0x6dDZTNWdxOXJkTThzaDEyeFBmQW9YNGpSbzFGOThpR29fVjVYazA2aHJGVjE0OEUtbmNj?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타, 액션 RPG 신작 ‘실버 팰리스’ 오는 12월 14일 출시 - PNN",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80b1ZUaVE0MmloV3V6WW1Cci1iQWRpYlBDdTBERUdaeFIzdDM4eGcxV1lITlpxekRoUGFwWnVsWmhaaEhQRUdKeTlaQ2ZheWlXc0hDVFhLUHJhMml2T0ZBdG94cXpzTVRu?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타 '실버 팰리스', 12월 14일 글로벌 출시 확정 - 게임플",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRUxMaVBrTlhmUmZMbDRTZXZfbmNPN0NUVmhaQ0w2QW5tdm5tamVXLW1sUC16REJtZWFIUlpib3NhX1FGWWZuTkg3YUVxai11Qjh2amZZUEJ6SDdUZGI1dkpkUEVfUjZNYm12Rw?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타, 오픈월드 추리 액션 RPG '실버 팰리스' 12월 14일 글로벌 출시 - 플레이포럼",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCM3kwc3d4bTJ4WjBiQnp4T1dwVGt2eGZIazk4c1FxVFZZQmx3VnNnZ0NSVzV2VmhYVi1pQWdhOG5iTnk4TkFxWTFoNWF6S0pmNUpmMk5Qa1NPVjVoRDZ5c0ZleUdTb1VtMEp2Tw?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "엘리멘타 ‘실버 팰리스’, 12월 14일 글로벌 출시 - 경향게임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51RW4zUXZIbnBudEljNHRNN0NveWlhRDIxVGwweElKT3R4V2N1dUh6LXhhTUFtNENTSTZJTkpMYlo3b1U5TklCM2xXS2VMdnBGQkVzNlhSMzVCT3JIaFlRdGVRNUNSSkQ3bzE2OQ?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "추리 액션 RPG '실버 팰리스' 12월 14일 글로벌 출시 - IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MTZ1SVZqRXRIc3hhRG81TFlUNzBMemZ5MllCZHg1Sk85MVJueGtUb2xnQXE1MnZEYi1aTTZISmlRTTktWVJITUxVTi0zNUhrTWZFcHlUeG5uUE5jWUF4anhSd01WTWdxVGpiYVZTLTXSAXRBVV95cUxOVE42VnU5SDhlS3FVSVd3cDlzeVZVaTRKLW5JU042aWRydnN5Qlk1RjRUWExBa2U0MTNHSzJTcGFqYWdRRER0dFdPb2hhZnEwd0k5QkFRVjhxSUV3azFBX21rclF4NHJ1c1dvalNxN19EUTV0aA?oc=5"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "中게임 신작 2종 〈쁘띠플래닛〉·〈실버 팰리스〉 12월 글로벌 격돌 - 글로벌E",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VSXFBU01QMWxNNFo5M1pZV2FYdnBWQmI0cVotNmQ1ZVNKMnhEeG85YkJJS01VYmY0TnJjemVVaXB4NWlDYjh4V3NnXzd4MWNCMDNFOEV2WEZPbEtaUTNwdko1NGxGbjFKTDFV0gFvQVVfeXFMT3FtaFY2NjVwSDQ5TjluNGZxZjd5OExRWGhzdmJuNWhJRFVBMWU2X1F4YmJYNWRLZk5sSjJnOGhCREt6eTVOMm5ia09xc0p2QTd6SS1TWEpCbG4zdEI4ZEdzbUoya0JYTFBMZ1lXeldV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "pareidolia",
+      "name": "파레이돌리아",
+      "nameEn": "PAREIDOLIA",
+      "developer": "Nexon Games (RX 스튜디오)",
+      "publisher": "Nexon",
+      "genre": "애니메이션풍 턴제 전투 + 일상 생활",
+      "platforms": [
+        "PC",
+        "콘솔",
+        "모바일"
+      ],
+      "status": "tba",
+      "releaseDate": "",
+      "releaseNote": "출시일 미정. TGS 2026에서 첫 시연. CBT는 올해 내 어려울 전망",
+      "confidence": "medium",
+      "news": [
+        {
+          "date": "2026-10-26",
+          "title": "넥슨, 신작 ‘파레이돌리아’ AGF에 출품… 한국어 버전 첫 시연 - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXVfdkRHQ3hYclZ4R1JCbmNiU0tOeDd6MTU2eFlVYnJFa01fZzNkX0FoNmJVZ2VzMlBBN2NiYVFGdVgtYVhzSXNyeElyYm5Td1dGX3N5bDVJMWhNdUV1SzdxMmQxYWJzVU5RcEdsbzA3dm5ERFBWQmZITGpxVlRUVWln0gGWAUFVX3lxTFBiaE5waWpGcXp2OVNKS1hwakpjTEpVUVZhTUhiU0phVkZUNzNZREN5bk8zSDg2NTZfWDVNVnNMTGR3Yzl3RkZzV0FkLVhlYnVZUk1IczlXbW5LM2NJMnpMNXZZSHFtSDhKaENhOXQyZTZSMUVGTXE4VlpISDAxSnRoc1dyeXJic3NvWVJXb1VrUkNPbEU3Zw?oc=5"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "[AGF 26] 넥슨 신작 '파레이돌리아' 첫 한국어판 시연 공개 - 게임메카",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QZWgwYXBUaHZZemRyX1dGemttcTZOdVl6S25yOV9WR2VEQWhzX3Z0S0dZdWRJS3lwaUViZ0hTUkVhTUxUWFJkd2w3NFZla0VJRjVnckpYTljSAVtBVV95cUxOQXZfdmgzS2p6RFRXRWZLWTF6bDlmbWFycVhtTWw3MlhnRDgwS05weWRCb25ZaW1xeFpaa1pSOHNRNWJ2TkFuR2RVaUtuNURJbkp4TE1IbVlEZnBN?oc=5"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "넥슨, 신작 '파레이돌리아' 국내 첫 시연…AGF 2026 참가 - 디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tbHVBdXVPZFRBZXMyemZhdW1KRm55LXZrTFdhS3ZlWmtHb3FoYjQtMFBvdVJoTGR5QUYxaW5PazhxbkxwM1NuVHREWE12UDVkSFM0aTJjTHRESmxKRXBNUGRzbnJOaTU5ZmNSUWZzblYyRmM?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "“파레이돌리아” 넥슨게임즈, 미소녀게임 ‘프로젝트RX’ 타이틀명 확정 - CatchNews",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DLW5pRkNkc2pvYWFmN2VVb1Y5SGJ1b2E4UkRtbXN5a1VWZVdITnU2ZFBBWk1mVi14dXlQMzdJcExRQzNCMnY0dGduU0JBeF9NZmZMSTZhX1dkcTlXcDdRRzBqQjc0UUphS3pJ0gFvQVVfeXFMTk5Dc3lWM2kwbHZNeHVNTWJzQ0s5Z050QlBJNnVfQVo4dmtyQlZ3Z1Fub19oNXZaSGZ4VE93MmxSaVJrSGdJTExVYWRGM2YxT2ZvXzNkc1F0STh0bW1Hdk9DLWJCcjN5NGcyUFhydDFN?oc=5"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "엔씨·넥슨 참전 AGF 2026…국내 최초 '아스트라' 등 신작 러시 - 씨네플레이",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tVWxjcmFKOXlWTGRoSE9WVXAtZWJkZ3FqWnhWOWZGR21lOERwYVFULWRSNFRwTThlS2h0YUpSSm05cm1hYnFZdGRISjc0R3p3X01ZOFlhamk3bDg?oc=5"
+        },
+        {
+          "date": "2026-10-15",
+          "title": "테일즈런너 한게임 넥슨 기본 배경과 특수 화면 비교 - Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYanhxZXlHWEZkVEZPUVlVaHdub0FKRnFUdVNQeWlyU29hbjVlZjlBcFV6QzhpWEdxZlhPUVJ3VkxDdlo3cU0xREhJdDFMWi1JYVZXbDB6al94VUQ5NnR0ejdaSDh2bC1pNVVnckhkYWlINUNRUXcw?oc=5"
+        },
+        {
+          "date": "2026-10-06",
+          "title": "\"게임 IP 외연 넓힌다\"…넥슨, '아크 레이더스·더 파이널스' 영화·TV로 확장 - 청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hRE5rb3JUeXpnU2N4dlQwY3lTR0ptRkFiYTZabGNQOWJMZG9KV2FvRlk1bnFhYnRUTERGQ3RxNndNYjhHcldyRllkUHBNSGR1WWFDS3hXdGNReXp4ajZnSGR1N1BHeEU?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "넥슨 10월 일정은? '템빨: 오버기어드' 사전등록·서든어택 챔피언십 시즌2 개막 - 창업일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WHB4M2RxSldGVmlsby1qYkxOX0ZpdnZQMVFIVFFUajVPQnFWQjEwX3pndGM1alI4M3VhV3V2bEpyVXhyN1F3LWNsUTl5SkhrX18ydnhZdjBVVGxpOU1PR0pWZllNdkZ3?oc=5"
+        },
+        {
+          "date": "2026-09-19",
+          "title": "[도쿄게임쇼 2026] 베일 벗는 넥슨 ‘파레이돌리아’…“감성적 밀도로 승부” : 네이버 블로그 - 블로그",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Rk9UdXVLUzJPNVM3cUdsTFdORzVwM3YtbjVaOTJYRURKLUVmRUJxQ19ZX1ZSc1RLeS1QWUhsRk9oYTVmSWNNTjFSSmw1TFpOLWRRbTdOM3RVUQ?oc=5"
+        },
+        {
+          "date": "2026-09-18",
+          "title": "모바일 사이트, 韓 3N+1S 출동! 日 TGS 삼킨다(5)넥슨G, 파레이돌리아 - 게임앤드",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZEUyejU5Qk9INkhlN3ZxNnl1Q29EOTA3MXVYMmhKUkhvRE9MUlhCQ1M0TldmUGN1UVFwMkVDMUR1UVpoQnFKTnBoNjltRmV5V2NLel9hVFlzckdwMkFBelFEM0cxQU0?oc=5"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "파레이돌리아, 위트 스튜디오 애니메이션으로 '아니마시' 일상 공개 - 게임인",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRmh1SWV3WmtfbmFrYkFXMmUwVXdrOU1HMDA0ZTMxV1FOZzJqdlBYLWJLTjZsSEVUTWxZX21hRkFDTDYwbE9nZ1AwVGdJbE5VSFpSMkV5YmVvem15c1lRTEREc3NZTzJUWUHSAW5BVV95cUxOOVNnWEs0aFNGQnVwNjU3VXdCUzZDOXRSbTlLMnhuQWNoWFFYbW5GNWZBRWZiSGowTElBWGZBcW5nZFJLSEtvRkt4YzBDRGdpU290RTlXWGlNWHhteGFvZmM0UGlDbjhKdVhURVFYUQ?oc=5"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "[해보니] \"이세계 홈스테이\"…넥슨게임즈 야심작 '파레이돌리아' - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CRDc3S1Bzam5yaUxFbUhQMUpOM1NOd3piWEJzaTN3R3dUMnIweExuakNLSFJ4MVU4eWtpdDVCQTFfNE5EenY2S2l0eDZiZng2NDVYc2kxamV2ZDTSAWBBVV95cUxPb3VXd2txR19BY0w0ZDBsMHZodWNDMjdlenRjUWRaTm1CQ0d0UTVWWVlDWW1WNnhkSWFaWkNTdzNjd0M5dDFydTZlMy1yam4yOFNJRndhM3V1UzhyS19ROEg?oc=5"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "[현장] 넥슨 ‘파레이돌리아’, ‘돌아가고 싶은 이세계’를 꿈꾸다 - 게임뷰",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1TnFlMnoweURIdmhfLU5QV200Ylh1aEw2RklOUHZmUUNKQUF6OTdfc0JERXNBTk14dWp2eFlQRmJ1SXRFdzFzZzFsWFh5WGtGemxGd2FaUkMxRHF2QWRHN0pLOHNsTW1mZnc?oc=5"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "[TGS 26] 넥슨게임즈 풍 살아 숨쉬는 세계, 파레이돌리아 - 게임메카",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yU3BnWmhuUVl1YWtQZHd6NjNYT2dhTXB2dVdsS29jR1BGb1ZqRklaV0tzT2dJdkRTY1VfNmtud0s2X3JwbjJKa1E3RWwyVUo5Yk5SZVMwS0jSAVtBVV95cUxOam90bGI4YVU0QjlwTElFdV9jSnFMbnpPUVlGdjByWHpoLXAzZDI2ZHVWZ0o5ZU1YSE52bk9IYkNQY0JXMDBXeWlrTEszWnByYjVYb2FZa191MWxV?oc=5"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "파레이돌리아, 공식 유튜브 개설 및 애니메이션 공개 - 인벤",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pdV9zLTNlQjRDbDFNVVRhc1NIeDRNQWptYlQwb1ZGWUo0dzdkNjFmLVppSGFycUR6eEdIQkNDYS1Ob0N6MHZqMnRnbjNLZ0xORXJTY0xTQlhNaEtjOFE?oc=5"
+        }
+      ]
+    }
+  ]
+}

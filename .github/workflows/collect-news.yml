@@ -1,0 +1,28 @@
+name: collect-news
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 09:00 KST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/collect_news.py
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain data/games.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/games.json
+            git commit -m "chore: update news"
+            git push
+          fi

@@ -1,0 +1,33 @@
+:root {
+  --font: "Pretendard Variable", Pretendard, system-ui, sans-serif;
+  --fs-caption: 12px;
+  --fs-body: 14px;
+  --fs-title: 18px;
+  --fs-display: 28px;
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 16px; --sp-4: 24px;
+  --radius: 12px;
+
+  /* single brand hue: indigo ramp (Tailwind) */
+  --brand-500: #6366f1;
+  --brand-600: #4f46e5;
+  --brand-100: #e0e7ff;
+
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --text: #0f172a;
+  --text-muted: #64748b;
+  --border: #e2e8f0;
+  --chip-bg: var(--brand-100);
+  --chip-fg: var(--brand-600);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b1020;
+    --surface: #131a2e;
+    --text: #e2e8f0;
+    --text-muted: #94a3b8;
+    --border: #243049;
+    --chip-bg: #232a5c;
+    --chip-fg: #c7d2fe;
+  }
+}
