@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "games": [
     {
       "id": "azur-promilia",
@@ -50,6 +50,11 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0azFGbkI3ZGEyM2JPa0x2RlpGQko2MUpmSDRHWjJHZjJwWUJ1dEduQkJ1bVBlYUdOSnJSY2JwTFVBLW0za01rbG9TU0xtcDJhR2JIYmdfUks5RzB5REhFcnhGQU0zRVZUcGNr0gFvQVVfeXFMTkF2bEVKeEh6REFvUk5KOURHMk5uZXBLMzVmVG1iLWhKWjZYOVd3Y3BBczZ0RmgwNFhqdXM2cEdCb3RFQi1GQTBicElWNjBLRUwwYV9vY1FPMHZncUpua0xUR09kTE8wcjZZdFItLVk4?oc=5"
         },
         {
+          "date": "2026-10-28",
+          "title": "넥슨 '아주르 프로밀리아' 총력전 \"AGF 부스로 결집\" - 게임플",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNDkzUDRpZmJXRl9hUjF6M2dJZ0pTbldWb1BNSUlER05xMFNsV3ZOR3g4aTRzalVrSWdGeFZ6Mnc3bzdxc3BWbDVXS1AyQkJyLVEwa19xR3NWbkZQWnRnNDdOaGwwZ1ZwRWU5Rg?oc=5"
+        },
+        {
           "date": "2026-10-27",
           "title": "검증 또 검증...'아주르 프로밀리아', CBT 담금질 거쳐 출격 채비 완료 - 플레이포럼",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WEN1TlNmbGVZejZRaHZHZ3RtaGpuX3RlSXdvWC1MR2ktX3FqRWVUZEw4Y1YwRkEtdnB3WG9LRnZOOWFPS3F2UHFldk9fZTUyM21nQzhIVi1vUjFGVWNZU0R4RkUtTnZ6amk2OA?oc=5"
@@ -88,11 +93,6 @@
           "date": "2026-10-25",
           "title": "Nexon to officially launch fantasy world RPG ‘Azur Promilia’ on November 26 - 스포츠경향",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFKVzQwYkJRVGVqeXhOQkJBTWc0YjBHRW8zWFpGVVk4dmpiN2tLTEdLZ0lkOFF6SG9sZkYxLUFRODBKMXo3VnNqY2Q5ZXpkY19sZkhvdVdXai1ZNUgyZFBfTzZGNXAxOUdFOFZ6MTVqTDJpa1JZZWJwVDNhOUtxbFJpNEVnS3FOWHdsR3RSZ2dTY1BabkVGY0lSM3AzSmlpZ0lBTXlPUW9WNmFjQXozYw?oc=5"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "넥슨 ‘아주르 프로밀리아’, 11월 26일 국내 정식 출시…PC·모바일 지원 - FETV",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96cVc3WTI1clBLQ0Yta0tjT3Q5NkZNX3FsSmM4VFRxMkZwQkNrQjZhcVlUYjZFQjZDdUU3akVxb2RaeHBHUFdwS2wzSTRnamV4ZmRmQ01DUU40eHBCSmt1RV9ZcnBvRTNH?oc=5"
         }
       ]
     },
@@ -154,6 +154,16 @@
       "releaseNote": "글로벌 정식 출시 (PC·PS5·iOS·Android). 12/4~6 AGF 2026 스폰서 참가, 사전예약 진행 중",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-03",
+          "title": "‘실버 팰리스’ 12월 14일 글로벌 동시 출시…PC·PS5·모바일서 크로스 플레이 즐긴다 - 위키트리",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3VDNlZXo5UUlPUFV6ME1hNExxNm9IaE5qd2tuM2RTMjdMSDF5WWVpUnZ1aTZiY3VBWlc4X1NuRE9fclhPdmhWVnM4RzhnbWZkazhnT3V3?oc=5"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "엘리멘타 ‘실버 팰리스’ 12월 14일 출시…AGF 참가 : 기업·산업 - 재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SRXhlQzJVQ2RJRmd1d21HQW5YdUdjb2laZkZOSGNrTTc0OGM1UUpWOXpxWi10TGN0M3dHSldESVlCTlNqRWl5cFItdw?oc=5"
+        },
         {
           "date": "2026-11-02",
           "title": "엘리멘타 '실버팰리스' 12월 14일 글로벌 정식 출시 확정",
@@ -218,16 +228,6 @@
           "date": "2026-11-02",
           "title": "엘리멘타 ‘실버 팰리스’, 12월 14일 글로벌 출시 - 경향게임스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51RW4zUXZIbnBudEljNHRNN0NveWlhRDIxVGwweElKT3R4V2N1dUh6LXhhTUFtNENTSTZJTkpMYlo3b1U5TklCM2xXS2VMdnBGQkVzNlhSMzVCT3JIaFlRdGVRNUNSSkQ3bzE2OQ?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "추리 액션 RPG '실버 팰리스' 12월 14일 글로벌 출시 - IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MTZ1SVZqRXRIc3hhRG81TFlUNzBMemZ5MllCZHg1Sk85MVJueGtUb2xnQXE1MnZEYi1aTTZISmlRTTktWVJITUxVTi0zNUhrTWZFcHlUeG5uUE5jWUF4anhSd01WTWdxVGpiYVZTLTXSAXRBVV95cUxOVE42VnU5SDhlS3FVSVd3cDlzeVZVaTRKLW5JU042aWRydnN5Qlk1RjRUWExBa2U0MTNHSzJTcGFqYWdRRER0dFdPb2hhZnEwd0k5QkFRVjhxSUV3azFBX21rclF4NHJ1c1dvalNxN19EUTV0aA?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "中게임 신작 2종 〈쁘띠플래닛〉·〈실버 팰리스〉 12월 글로벌 격돌 - 글로벌E",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VSXFBU01QMWxNNFo5M1pZV2FYdnBWQmI0cVotNmQ1ZVNKMnhEeG85YkJJS01VYmY0TnJjemVVaXB4NWlDYjh4V3NnXzd4MWNCMDNFOEV2WEZPbEtaUTNwdko1NGxGbjFKTDFV0gFvQVVfeXFMT3FtaFY2NjVwSDQ5TjluNGZxZjd5OExRWGhzdmJuNWhJRFVBMWU2X1F4YmJYNWRLZk5sSjJnOGhCREt6eTVOMm5ia09xc0p2QTd6SS1TWEpCbG4zdEI4ZEdzbUoya0JYTFBMZ1lXeldV?oc=5"
         }
       ]
     },
