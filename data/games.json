@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,21 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-05",
+          "title": "넥슨, 연말 MMOㆍ서브컬처 신작 공세 - 더게임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSlI3bFBpc2JxZEEzR0YzUzV0bUphSEpoVUNHWFUxOTFWalVkQy05Mko3WUZRc2w3SGN6OHNKaDNhVFlneVhEUHM0QXRzVFFGUktmcEhLQ0VpenB5ZUVDV0xJQXAzYVNIckV3dg?oc=5"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "‘아주르 프로밀리아’ 온·오프라인 서브컬처 팬심 공략…26일 국내 정식 서비스 - 스포츠동아",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuMHVZV0dWZkFRQzYyQ3p0MkRRSWxPYllRaThYTnViZDdIRWhMYnpkTndnY0xsZ3NCeElHNzVpSEZIcFUyM3h0SGN5WE5MNDhyTTJoeVdXSHF1R3JGV3QxOUdxVXliUmtaVWh5MGNmcXdPZw?oc=5"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "[경영전략] 오버워치 품고 템빨 띄운 넥슨…글로벌 퍼블리싱 명가 '도약' - 파이낸셜포스트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuaTZ1MDZwWUR5aDRBTzBPU2RSV0hxUjBwVkc0S2ctVFRXZXgzUGJsQ0pEeDF6YThvb0dYNnZMbUtEbDZjZmx6N1ZDaDF5dTdXb2VuV1AyTDV0Z0hLdTROSGR5RjZJUVhnbXdBdDctRXRqRDlO?oc=5"
+        },
         {
           "date": "2026-11-03",
           "title": "서브컬처에 진심인 만쥬...'아주르 프로밀리아'에 담은 미소녀 철학 - 플레이포럼",
@@ -78,21 +93,6 @@
           "date": "2026-10-27",
           "title": "검증 또 검증...'아주르 프로밀리아', CBT 담금질 거쳐 출격 채비 완료 - 플레이포럼",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WEN1TlNmbGVZejZRaHZHZ3RtaGpuX3RlSXdvWC1MR2ktX3FqRWVUZEw4Y1YwRkEtdnB3WG9LRnZOOWFPS3F2UHFldk9fZTUyM21nQzhIVi1vUjFGVWNZU0R4RkUtTnZ6amk2OA?oc=5"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "넥슨, 신작 RPG '아주르 프로밀리아' 다음달 26일 출시 - 이투데이",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wcGZKbE4zeHpzbG9BeXlMR0hzWUdZZGZRMWtVcWdubW5kNlZmanpLZXB3RF8tUFRCOWtQU0p4T3JtRXdNSVpBb2o1SWFwRG9aMzVRTA?oc=5"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "아주르 프로밀리아, 11월 26일 국내 PC·모바일 출시 - 게임인",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaTBidDY4LUQwckdDeVNHS1U0QS1VUEppNmFyRk1NanE3M3p2dGJ4NWxKNEFOQVE0bnFkTzNVc3JQZWk5REk2VEt0SkxzN0dwaVVxRDdJZmcxUnpZY1B4WUZ3WjViaXhROEHSAW5BVV95cUxNbVZpS0EtUFhjT08zV1dYc1QyS0lFbWtNZllVTnQwZ1VlQ2ppSmZqUHYzOExEWnJOcWNYM05FUkhJREpxbmlTajlwT2FYZ3ZpRjUtZGRmNUxRZWlyM0FOZk9VZmZ2WVZ6R2hmVDBydw?oc=5"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "사전예약만 1년…넥슨 '아주르 프로밀리아' 준비과정 어땠나 - 데일리게임",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uNmtmMklta2ppZWpkVkZTanhoVmV4b1A5b3Rua1NuMG5lWGpvSTRndlFVRTNjcmdaek9jcElEa2VGOE5FX1hKRHpiT3ZUSXVVelV0bVlOc3dBM2xTR1VidFdpaEZLTlpEakRCR0hrRjVUYms4SXVaLWxpdw?oc=5"
         }
       ]
     },
