@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,11 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-06",
+          "title": "넥슨, '아주르 프로밀리아'·'템빨'로 연말 승부…신작 흥행 재시동 - 데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMGxEWVFFMUhKY2ZHTDFLOFBEUExodDlORnJRMG1HdlBWakZKbFhKUVlXTUU4YVZDRzdFX3dNcFVPclNrd1hkaExqdTJaYlNOaFZjNjBYeVFEeHQyUkxxLWFibHlHSDRwZ2V4b0h6MnBwR2ZUMFFRY3V2blRuZ21Yd2phdlhMYXByaGRLd0xBelRTbUw2ZzFrTUV5dElJNGNzd0VjYzc3WE9xcGJBMXhlQi04Rkl6bFB0dlVLTEZvVXFPY3FpSVhhbEpxQlp4ZlFONVg0QVFyYkhERHd1MTU3cFpESnpWUllmSTl6X2luMi1xTVpwVi1wTkh1TTBYZ0tpbjlSSS1NR0hrNlVnWGt1eGVYVUtRUWJMZm80Zm5jSGs1T2s?oc=5"
+        },
         {
           "date": "2026-11-05",
           "title": "넥슨, 연말 MMOㆍ서브컬처 신작 공세 - 더게임스",
@@ -88,11 +93,6 @@
           "date": "2026-10-29",
           "title": "한국어 풀더빙부터 AGF까지 … 넥슨, ‘아주르 프로밀리아’ 현지화에 진심인 이유 - 경향게임스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVkJxTWhyVll6LUdvTE1pSWx2ZjJXNkhnNkRFSWFXd2t1cWNZcnpzWXRqbDV2aEhWRmNzZWRaV214aHotMGRNdG8tN3NMUVNSOTJSRDJQbDBCU0JlR2p6eEVuZ1VvRm9vcDUzVg?oc=5"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "아주르 프로밀리아, 생활 콘텐츠의 핵심가치 '정서적 교감' - 게임어바웃",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0azFGbkI3ZGEyM2JPa0x2RlpGQko2MUpmSDRHWjJHZjJwWUJ1dEduQkJ1bVBlYUdOSnJSY2JwTFVBLW0za01rbG9TU0xtcDJhR2JIYmdfUks5RzB5REhFcnhGQU0zRVZUcGNr0gFvQVVfeXFMTkF2bEVKeEh6REFvUk5KOURHMk5uZXBLMzVmVG1iLWhKWjZYOVd3Y3BBczZ0RmgwNFhqdXM2cEdCb3RFQi1GQTBicElWNjBLRUwwYV9vY1FPMHZncUpua0xUR09kTE8wcjZZdFItLVk4?oc=5"
         }
       ]
     },
@@ -269,6 +269,11 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tbHVBdXVPZFRBZXMyemZhdW1KRm55LXZrTFdhS3ZlWmtHb3FoYjQtMFBvdVJoTGR5QUYxaW5PazhxbkxwM1NuVHREWE12UDVkSFM0aTJjTHRESmxKRXBNUGRzbnJOaTU5ZmNSUWZzblYyRmM?oc=5"
         },
         {
+          "date": "2026-10-25",
+          "title": "넥슨, 신작 ‘파레이돌리아’ AGF 2026 참가, 한국어 시연 버전 최초 공개! - 넥슨 뉴스룸",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JdHRobW9pTy15WkthNlhCUFdYcWRRUUlyenY1bkw5b013S2NZRlBSSFU3Sk5MRTRSdEFWRG5KVVpyS0ZSLVFPeVVyZ0JGQlhCUmtIdzl2Nll2QnJUVVZB?oc=5"
+        },
+        {
           "date": "2026-10-23",
           "title": "“파레이돌리아” 넥슨게임즈, 미소녀게임 ‘프로젝트RX’ 타이틀명 확정 - CatchNews",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DLW5pRkNkc2pvYWFmN2VVb1Y5SGJ1b2E4UkRtbXN5a1VWZVdITnU2ZFBBWk1mVi14dXlQMzdJcExRQzNCMnY0dGduU0JBeF9NZmZMSTZhX1dkcTlXcDdRRzBqQjc0UUphS3pJ0gFvQVVfeXFMTk5Dc3lWM2kwbHZNeHVNTWJzQ0s5Z050QlBJNnVfQVo4dmtyQlZ3Z1Fub19oNXZaSGZ4VE93MmxSaVJrSGdJTExVYWRGM2YxT2ZvXzNkc1F0STh0bW1Hdk9DLWJCcjN5NGcyUFhydDFN?oc=5"
@@ -317,11 +322,6 @@
           "date": "2026-09-17",
           "title": "[현장] 넥슨 ‘파레이돌리아’, ‘돌아가고 싶은 이세계’를 꿈꾸다 - 게임뷰",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1TnFlMnoweURIdmhfLU5QV200Ylh1aEw2RklOUHZmUUNKQUF6OTdfc0JERXNBTk14dWp2eFlQRmJ1SXRFdzFzZzFsWFh5WGtGemxGd2FaUkMxRHF2QWRHN0pLOHNsTW1mZnc?oc=5"
-        },
-        {
-          "date": "2026-09-17",
-          "title": "[TGS 26] 넥슨게임즈 풍 살아 숨쉬는 세계, 파레이돌리아 - 게임메카",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yU3BnWmhuUVl1YWtQZHd6NjNYT2dhTXB2dVdsS29jR1BGb1ZqRklaV0tzT2dJdkRTY1VfNmtud0s2X3JwbjJKa1E3RWwyVUo5Yk5SZVMwS0jSAVtBVV95cUxOam90bGI4YVU0QjlwTElFdV9jSnFMbnpPUVlGdjByWHpoLXAzZDI2ZHVWZ0o5ZU1YSE52bk9IYkNQY0JXMDBXeWlrTEszWnByYjVYb2FZa191MWxV?oc=5"
         }
       ]
     }
