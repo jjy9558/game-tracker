@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "games": [
     {
       "id": "azur-promilia",
@@ -20,9 +20,19 @@
       "confidence": "high",
       "news": [
         {
+          "date": "2026-11-07",
+          "title": "Azur Promilia, 11월 26일 4개 시장에서 출시 - Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGxNNktJclBGNkJ4a2FaR1plME9TYWVqTHI4QjQ0bFZGTFVnbkxuX2ZFbHNlZ3V4TXVOVElQSlVZenNCYXpZVkZXa1U5VzNFR184eTRiZU50X1g3RVd3emRqaUF5WVdiSktwSGwyTkQzTXZmOWF4dmFMemNlbVJ2R2lLTDV3RmVndEFuYzNtd0xxRmpQdlRYZVNBRQ?oc=5"
+        },
+        {
           "date": "2026-11-06",
           "title": "넥슨, '아주르 프로밀리아'·'템빨'로 연말 승부…신작 흥행 재시동 - 데일리안",
           "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMGxEWVFFMUhKY2ZHTDFLOFBEUExodDlORnJRMG1HdlBWakZKbFhKUVlXTUU4YVZDRzdFX3dNcFVPclNrd1hkaExqdTJaYlNOaFZjNjBYeVFEeHQyUkxxLWFibHlHSDRwZ2V4b0h6MnBwR2ZUMFFRY3V2blRuZ21Yd2phdlhMYXByaGRLd0xBelRTbUw2ZzFrTUV5dElJNGNzd0VjYzc3WE9xcGJBMXhlQi04Rkl6bFB0dlVLTEZvVXFPY3FpSVhhbEpxQlp4ZlFONVg0QVFyYkhERHd1MTU3cFpESnpWUllmSTl6X2luMi1xTVpwVi1wTkh1TTBYZ0tpbjlSSS1NR0hrNlVnWGt1eGVYVUtRUWJMZm80Zm5jSGs1T2s?oc=5"
+        },
+        {
+          "date": "2026-11-06",
+          "title": "'아주르 프로밀리아', 출시와 함께 만나게 될 캐릭터들 - 게임플",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hOWJoZFhESjI0UDR2eEI5dVRkeWVRVlFNSjdtMkFhVXIyejk5ejZLQWlkRFFWWGxudnZzWFJPQjkyU1dDSVBEVTBKNkFKZ3FETVhnVmdTMy01bVZWR0s0dVROT0FhNnlEdVcweA?oc=5"
         },
         {
           "date": "2026-11-05",
@@ -83,16 +93,6 @@
           "date": "2026-10-30",
           "title": "'다마고치'부터 '키보'까지... 아주르 프로밀리아, ‘랜선 집사’의 로망을 되찾다 - 게임어바웃",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03TGk5XzB3cGdiY1V5M28wYlkzTmpIeXBvNGFTT2Ztcnhvanl4M2ktS1hZV05BZVNFSGpGalhnUVpnSWpoSHBqRHA4RWFOM1d2S1hIOXVSY0dkVEpuMEMtdnJfa0dncnhfTWZn0gFvQVVfeXFMTXFMRk8yNzY1eDBheUw0bUtuTjdZT1BWd1k1LXU1OTlHNUJxX1RMUlZLc19oTG5QdGVnU09aZng5VWhzdXc4bkRHaDNZaWh5UmE4WVd4X1RwLXpfNkR5M0J3cnRMaVZIYmJnZE16ajNZ?oc=5"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "넥슨 '아주르 프로밀리아', 숨겨둔 서브컬처의 낭만을 말하다 - 게임뷰",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HXzRqb003ZDZuZTNOS3B5aWxQSFMyNWs3UVN5c0ZVX2cwUkZUTFZvUnpoNVhTUzBEc3h0V1R0UXVzYm1COS0tQ2Z0VV8wVnZFeklvVzFnamNKcTlRSDlDMzROWUd0R3FjY2c?oc=5"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "한국어 풀더빙부터 AGF까지 … 넥슨, ‘아주르 프로밀리아’ 현지화에 진심인 이유 - 경향게임스",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVkJxTWhyVll6LUdvTE1pSWx2ZjJXNkhnNkRFSWFXd2t1cWNZcnpzWXRqbDV2aEhWRmNzZWRaV214aHotMGRNdG8tN3NMUVNSOTJSRDJQbDBCU0JlR2p6eEVuZ1VvRm9vcDUzVg?oc=5"
         }
       ]
     },
