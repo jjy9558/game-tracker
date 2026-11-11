@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,11 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-11",
+          "title": "넥슨 '템빨'·'아주르 프로밀리아'부터 'GTA6' 등 11월 신작 살펴보기 - 게임뷰",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xWm5qRFFNN1FfaEhDMDlGMXNvSTVxLWt0UmFrTHFDb2J1clFNWGZ5QjB6MXEycXRjU3BPbmg3dUdEY0tNQzN2MVVqZkN5R21qeW1fd3YxQVo2ZnE2MDlXUmR6bjRtTGJNdnc?oc=5"
+        },
         {
           "date": "2026-11-07",
           "title": "Azur Promilia, 11월 26일 4개 시장에서 출시 - Mezha.net",
@@ -88,11 +93,6 @@
           "date": "2026-11-02",
           "title": "'12월 제대로 붙었다!' 4세대 서브컬처 '빅3', 사상 최대의 대진표 성사 - 게임어바웃",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56bmtPWGlGWExoZWxCemxnUlB2NTBrSmhUajBLNUZJRy1OamNlVUVtbkhWZ2tMLURHV3ZGc3A1bFJIS1FrdkY3Q1F1bm1MMjkzVnZQbXc5RlZBblF0b3lBTHVScG5xUmtIcU50Zg?oc=5"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "'다마고치'부터 '키보'까지... 아주르 프로밀리아, ‘랜선 집사’의 로망을 되찾다 - 게임어바웃",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03TGk5XzB3cGdiY1V5M28wYlkzTmpIeXBvNGFTT2Ztcnhvanl4M2ktS1hZV05BZVNFSGpGalhnUVpnSWpoSHBqRHA4RWFOM1d2S1hIOXVSY0dkVEpuMEMtdnJfa0dncnhfTWZn0gFvQVVfeXFMTXFMRk8yNzY1eDBheUw0bUtuTjdZT1BWd1k1LXU1OTlHNUJxX1RMUlZLc19oTG5QdGVnU09aZng5VWhzdXc4bkRHaDNZaWh5UmE4WVd4X1RwLXpfNkR5M0J3cnRMaVZIYmJnZE16ajNZ?oc=5"
         }
       ]
     },
