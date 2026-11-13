@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,21 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-12",
+          "title": "아주르 프로밀리아 출시될 때 피자 주문하세요 - 게임톡",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZHM5a191ZFVwWFk4NzNBWHFuU013VlhjLWtDOXpTc1Y0aHZCQTVJa1NLZTdMcV9Rdk03ZHNCN2VpbHphSkFsd3FEZ1JyZ0duMHFxOWd2Y3dxUkpMYVVvdjN6UkhxcEVaNXV3WQ?oc=5"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "넥슨, '템빨'·'아주르 프로밀리아' 11월26일 동시 출격…겨울 시장 달군다 - 데일리게임",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FSlVkMnRQWkVnc1JOM2FmeUE1aHZaTkVCRUQ3dDRseW5qcmttdy1RZmFrTzVrQllzTHlvcjRaOElTUHVvUkV2UXdNdTh5M0JBeHFMcmdFZmdUazZ3dm8wTEpDaU9uQ3FYTHNjZ3BjeElvMmU0M00yVUNR?oc=5"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "'아주르 프로밀리아' 내 동료는 누구? 속성별 캐릭터 정리 - 게임플",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSkFyVjQwU1Y0MmJCRWdqMGFTLUJFSG5lN3d6bzdKaFlBVnZPRlhjM0NTaEttWEQ1QzBOMW4tRHNQNG5sZHVONFpFS2o2QXNVcndkdDc4YXl5MGNDMTNQQjVldUtwbHBWd2RKZA?oc=5"
+        },
         {
           "date": "2026-11-11",
           "title": "넥슨 '템빨'·'아주르 프로밀리아'부터 'GTA6' 등 11월 신작 살펴보기 - 게임뷰",
@@ -78,21 +93,6 @@
           "date": "2026-11-03",
           "title": "\"GTA 6 비켜\"…연말연초 '서브컬처 4파전' 활활 - 월요신문",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNDhNcnlmUDVIVzduczdYaC1XekNxSEowajhQc1NoeDZwOWFLdk5PTGIxS2JNSmJ0Y3JLekhFek9LU1lBZHBtVWNwbTRRbnpvcmRKbU5yVjRlRGo1eWRWQXdEU2JvcTdjTWc?oc=5"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "'4종 4색 테마' 장르 확장 앞세운 오픈월드 서브컬쳐게임 - 게임인사이트",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51S1gyU080Y2gxeklMcDN5THhwcGFqU3RnQm5WMEhlVVduRFhQaFJuWU5iX2tYbVFkSmQybW9wbkx3Z0h4dDM0TXl2Z0d3QXduVlk5MXdvZzlmYU05aXJWejAxTmdvblU5Smp1Q2ZZZDDSAXRBVV95cUxQQWczdWp1cWVRbTZOUEVqTHdLZTkzNUs1cldfMDZWZno3WDRMNzJaOFpuRlZ3dnR1WS0yRmtIbmw1RGZweUMzREE5S21xY0tPU2FIU2ttREZBUE5zX1pQRzg1VXNSVUgxN1U5US1Td2VNaVJZdw?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "넥슨 ‘아주르 프로밀리아’, ‘미소녀’에 ‘키보’까지…서브컬처 팬 공략 - 매경 게임진",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWa1RhS25CNGZ1Z3dUbXM1NDJUbGtOV2tONEZuUGtfcThVNmdkbFdlbDRfaDl5TEhTZ3ZMdDlMTTRiekNCX2xUWWtZZ1pfZnJj?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "'12월 제대로 붙었다!' 4세대 서브컬처 '빅3', 사상 최대의 대진표 성사 - 게임어바웃",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56bmtPWGlGWExoZWxCemxnUlB2NTBrSmhUajBLNUZJRy1OamNlVUVtbkhWZ2tMLURHV3ZGc3A1bFJIS1FrdkY3Q1F1bm1MMjkzVnZQbXc5RlZBblF0b3lBTHVScG5xUmtIcU50Zg?oc=5"
         }
       ]
     },
@@ -113,6 +113,11 @@
       "releaseNote": "글로벌 출시일. 단일 커뮤니티 글 근거라 공식 확인 필요",
       "confidence": "low",
       "news": [
+        {
+          "date": "2026-09-03",
+          "title": "넷이즈 '무한대', 게임스컴서 공개한 살아있는 오픈월드 - 게임뷰",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyNk05Qi1GMkF4Q2dSR0x6TUZrRU5zd0FIYm1DSzB0cTlLWEd5WGZOU19TQzdYYVI0a0tMVEZMOEVfdmRPckFWcDEwa2x2STd0Y3drY28xSFpNdm5oVlRlZTFMV0tBYlpyWlE?oc=5"
+        },
         {
           "date": "2026-08-27",
           "title": "게임스컴 2026서 신규 PV 공개, 글로벌 출시일 1월 15일 (디시인사이드 글, 미검증)",
