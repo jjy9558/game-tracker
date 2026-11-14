@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,41 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-14",
+          "title": "넥슨, 26일 '템빨'·'아주르 프로밀리아' 동시 출시…연말·내년 새 먹거리 키운다 - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lRDNkaWFVc0pjUkZjLTZYUEFZWnEzcVFYZlBCV0tWMFdCMVdiLUd3cl9TUVV5YjNSU291QmZxUWV1MVRQMUxRVW1ycm4tWDl4OFN2dThXY0hQUXpITlk0ZE9TN2pNYzBBT0U5UXllYUZrT1ExYjJpetIBeEFVX3lxTE5lRDNkaWFVc0pjUkZjLTZYUEFZWnEzcVFYZlBCV0tWMFdCMVdiLUd3cl9TUVV5YjNSU291QmZxUWV1MVRQMUxRVW1ycm4tWDl4OFN2dThXY0hQUXpITlk0ZE9TN2pNYzBBT0U5UXllYUZrT1ExYjJpeg?oc=5"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "아주르 프로밀리아, 출시 전 방송 켭니다 - 게임톡",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZjRiSGVIblBOcUVrb0JZNkJMOTNMSmpaUnlKSmJVaGtQSGx4RlpQVjFzNkhwcHBFbEQzN3ZzeGJpRmtqZjdNaTJUTjM1ZlUzUVRIODhLcXNGeTRhbldfaWlkUjFrei1iN3VRZQ?oc=5"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "출시 전부터 팬심 공략...넥슨 '아주르 프로밀리아'를 기대하는 이유 - 플레이포럼",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hWF9CS0lPSTd0MGw3LTBNRHBtRW9yaDd6LWY1a3hreEpaWlRQdTgwTzRYd0hjTEVmWnpWQ244OU5ZcE91ckdUQ0huajQwNGlQNVpGXzAtVUdLTlFWcWx6U2FfYzdKdmI2MXp5RQ?oc=5"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "[영상] 아주르 프로밀리아, 정식 출시 트레일러 공개 - 게임뷰",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1takY5cUktYnJ5cFRTUHllRzRSbHVlbHh0SUtmdk03NVZCT2JadXlfd01xYUhLZkZYdmZVaDZ6YU00TUlDWDZnRk9EUlZNSF8teHFxSFBtOHc0dGdVa1BEeUdKVWxtRVVsLXc?oc=5"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "'픽뚫' 없는 아주르 프로밀리아, 과금 부담 잡을까? - 게임플",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqLUNHN0NDRU9kajN6VmFqU1J2VjRydGhJWE9YWDRJd0NRQzNMOGIxVUdzVW5WanFIeEhHenI3NFpiRE1oOUJLQTc4dVdqNVdqM1lNNGJua1V2bWxYQ3A4Q1JIVUhFSUpqN0ZWZQ?oc=5"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "「아주르 프로밀리아」 | 키보를 쓰다듬어보자! - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obi0wZHZYODNaNng1Nk1FQkFCTVYyS3l1UlRXZVJnSGx3a3phUVZBVFdxdENIb2RFbFloVXRsNGJXek9YY1pUUXFUcVRnSFY4akRSMmlwZ3JTVi1K?oc=5"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "넥슨 ‘아주르 프로밀리아’, 캐릭터 매력 뽐내며 출시 예열 - 게임뷰",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Gbl9jU2JZYVdibWJkVmVKNmR0UUI3SS10X1o4SkVhaUhPZXlJZkFlRlZDZnZubUZ4Wl9Fanh3LXgxRFBLM1Y3WmNrM09JdFJPc0JKdFZQZFVmcEt5V3hIWHFXWnE3RkkyaWc?oc=5"
+        },
         {
           "date": "2026-11-12",
           "title": "아주르 프로밀리아 출시될 때 피자 주문하세요 - 게임톡",
@@ -58,41 +93,6 @@
           "date": "2026-11-05",
           "title": "넥슨, 연말 MMOㆍ서브컬처 신작 공세 - 더게임스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSlI3bFBpc2JxZEEzR0YzUzV0bUphSEpoVUNHWFUxOTFWalVkQy05Mko3WUZRc2w3SGN6OHNKaDNhVFlneVhEUHM0QXRzVFFGUktmcEhLQ0VpenB5ZUVDV0xJQXAzYVNIckV3dg?oc=5"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "'아주르'가 문 연다...연말 서브컬처 신작 대전 개막 - 플레이포럼",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ycDB5dktOYUxHeHI2YkhUa2x5SlBxalBGUVRSY2NnWjNESDB3NzlpMGJQNG85T01zWG9oam9BbjRYc3I5LXp1TDJNVTN6Z1lURWw1S1VlUnp6TnZrZDNZQTBJQWVSQ00wRlpwYw?oc=5"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "넥슨, 26일 '집안싸움' 불붙는다···MMORPG·서브컬처 맞대결 - 글로벌E",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Xcy0zTEduRnE4SS1qYmQ3WWI1MEFoaWhMb0JCODBuT0NHVHhWSUtUYkhVTFlSeWtRT2JYdVRlREZFYnVMeUxXcWd6M252bmdRYkEtTjBJcDhqN2ZCT1lvZEtqU19YdVh6b1V30gFvQVVfeXFMT3h6YlBWRWx2a3Y5MDhvOWxlenRQQ0JaNmd1UUluUUdfTGdyT3VEVkhsUjdwMzNsd0Q0MlNkUHlPQlF2dzNubV91RW1SaENyMS1LMFZiVHZlempKXzRvcnhXN2xVQzRnZWhNd0tJekdn?oc=5"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "‘아주르 프로밀리아’ 온·오프라인 서브컬처 팬심 공략…26일 국내 정식 서비스 - 스포츠동아",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuMHVZV0dWZkFRQzYyQ3p0MkRRSWxPYllRaThYTnViZDdIRWhMYnpkTndnY0xsZ3NCeElHNzVpSEZIcFUyM3h0SGN5WE5MNDhyTTJoeVdXSHF1R3JGV3QxOUdxVXliUmtaVWh5MGNmcXdPZw?oc=5"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "[경영전략] 오버워치 품고 템빨 띄운 넥슨…글로벌 퍼블리싱 명가 '도약' - 파이낸셜포스트",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuaTZ1MDZwWUR5aDRBTzBPU2RSV0hxUjBwVkc0S2ctVFRXZXgzUGJsQ0pEeDF6YThvb0dYNnZMbUtEbDZjZmx6N1ZDaDF5dTdXb2VuV1AyTDV0Z0hLdTROSGR5RjZJUVhnbXdBdDctRXRqRDlO?oc=5"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "서브컬처에 진심인 만쥬...'아주르 프로밀리아'에 담은 미소녀 철학 - 플레이포럼",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YSndiemRUSUdhUjliMjlxaUNGWTRIWnpzRzQxVldiSnBHdzZVZWRNWmZNSUlkZ0stcVpicGpFWk5TVC15ajkxRWZCX21EdW00VFBJQjVIMXRkNE9YM2lSWXBaLU1id3daR2pzTA?oc=5"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "호요제국 맞선 만쥬·넥슨 동맹... 12월, 4세대 서브컬처 '삼국지' - 게임어바웃",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wemZGWEx5TDBWc05SNXRKZ2RZUVU4amg1WExpM1V1Um5jNW5sSGpzRm5qc2ptWlRJVnBJM2tlUm44S0ZOVDE3OENSbU1obkQ0MW9JZGt5QXlHQnAtbjJYMHN5eGRKR2FETUlZ0gFvQVVfeXFMTXM3OGV2Q2dTcUlwTXdDSzl0b0hmeUQydWdjMGRGYVBKN1lXdlNDeFlsLWZ4YlBrSkRvV2cwZlA1cE1Fa18yLWVKdkFoQzZlTG15SjFQcERreVhCLW1hVVpfdzY4OWxCdWJvQzdzVl9B?oc=5"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "\"GTA 6 비켜\"…연말연초 '서브컬처 4파전' 활활 - 월요신문",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNDhNcnlmUDVIVzduczdYaC1XekNxSEowajhQc1NoeDZwOWFLdk5PTGIxS2JNSmJ0Y3JLekhFek9LU1lBZHBtVWNwbTRRbnpvcmRKbU5yVjRlRGo1eWRWQXdEU2JvcTdjTWc?oc=5"
         }
       ]
     },
