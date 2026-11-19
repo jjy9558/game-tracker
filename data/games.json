@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,11 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-19",
+          "title": "강남·광화문, 지하철 2호선까지…넥슨 '아주르 프로밀리아', 26일 출시 앞두고 옥외광고 전개 - IT타임스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rRGYyUlhZcXJuVGo2R2xZa3lLMWVsbU5yRXdmTklpT2VhN3dHdzRoanZoUVNyQjZKbVlmaUlpNjI5MzZZa3htbDg0eHBLdndIVnVYaVhYd0FNVkMwekNNZ2NVSnVmdjNh?oc=5"
+        },
         {
           "date": "2026-11-18",
           "title": "강남부터 광화문·홍대까지…‘아주르 프로밀리아’ 옥외광고 전개 - 중소기업신문",
@@ -65,34 +70,29 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHNmFEM29RUVp2VW5TaWl1SkNyYk94LXZvazR1SlFnOTBCclUzd3ZGb0NjWlNlNjlfblZPVVA4b2tHX19tNGJPenlWWm45UlNrWmwwZGxvY3hqdUVIY0RQV21qZVNaazdIdlRDVG4zb01EbFnSAXNBVV95cUxQRzZhRDNvUVFadlVuU2lpdUpDcmJPeC12b2s0dUpRZzkwQnJVM3d2Rm9DY1pTZTY5X25WT1VQOG9rR19fbTRiT3p5VlpuOVJTa1psMGRsb2N4anVFSGNEUFdtamVTWms3SHZUQ1RuM29NRGxZ?oc=5"
         },
         {
-          "date": "2026-11-17",
-          "title": "넥슨 ‘아주르 프로밀리아’, 26일 출시···피자 브랜드와 협업 마케팅 - 이뉴스투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HWW9yb20wX1VtVDNvYWJwSkRudDJ0SzhuYlNjODhDYk9QcWx2NDZ6a0lzWHdrNl9XU1FtQXZoQTZvWVFkVXh4d2xhS2EyZUVUSy0tOThva1dZQ3djdllZT1gxUDVjQUI1Y0o4MHk1SXnSAXRBVV95cUxOY01kSmRFRkNiUXMwY0htS2lIQUtOMmU0Tk5fTTRkakY0MTdBSWxWSmtuX3lZTl9uU3RzSWk5ZXRTNjJQTDRTQlR5djIwX0E5dmxZVG93cFBNQmpTS2JDbVNyVFZuQVhlMWluM3lTcHRLVERoYw?oc=5"
+          "date": "2026-11-18",
+          "title": "출근길에 만난 판타지 세계···현실로 튀어나온 넥슨 '아주르 프로밀리아' - 캠페인 인사이트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdHozYTVJMWtFNklUT0VuVkVXRkVCUm5Rc09tSmhoV0J2cDE3TDQ2UjdkQllranhTc3I0WmdMSmlkUzBVNDR3S19vN3lrWE5mNWxXWFlPU2tocnNkNHdtalFNdHA4ZWNyYWxoTnBWUER1dHo1?oc=5"
         },
         {
-          "date": "2026-11-17",
-          "title": "'아주르 프로밀리아' 첫날부터 달릴땐 '반올림피자' 함께 - 월요신문",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fQWR1MEpUUnQ3ajh6Zm1nU0NIRTgxY3NxeFJnSzhjWGdlUXZwOGY0NTQ3ckhJa2dfc1NuRGJvVlF6SWszbFotUk5FLXU5S3pvRlN3bTBzMU9UMW1HWUNJbFJBMDhZamdkekE?oc=5"
+          "date": "2026-11-18",
+          "title": "아주르 프로밀리아 흥행 위해 총력전 펼치는 넥슨 - 게임톡",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1ald3UWpqYmRVNmp3VWkxUXBwZ0NGLTM0cDB5NjQ4OUtRcjVtR2hoejg1X2NxNFE0UUFIM0NWa2x5alJsbEtHNFlpc3JUYjdFYTVpZHd2cFdEb2xiUk5FeDVGbFd0R3FwdW9BYg?oc=5"
         },
         {
-          "date": "2026-11-17",
-          "title": "넥슨 〈아주르프로밀리아〉, 출시 전부터 컬래버·AGF2026 진격 - 글로벌E",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LUk9ZenoxRXAycWg0TEs1TXNHQU1HZkxBUkoxdFM3TGljNUZ3OWRMSUJpRUZLcklqaDdlc3pQQkxGUjhJUG9aRlNkdERzMXVFaWtnM05mdDIzbnpyTV9lZDI3ajBRNzBCamxN0gFvQVVfeXFMT0NVa3pta1RGWlo2OURQa2pFRExPWUYzR0t4b1BjSkZ6N09oZUxnYlFTUGNkUllCTDdPMWowalZGS3VQNE53dmlmYWFTWkhpbGtkZml4X1BaTkxPaGJlMHhKMDVOZ3Rma1JoTHJ0Zmw4?oc=5"
+          "date": "2026-11-18",
+          "title": "넥슨 '아주르 프로밀리아', 26일 출시 앞두고 서울 도심 대규모 옥외광고 - 스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1reHpKbGZjcUZ5OHlLZHZER1A4UHNaMlZzSDBZVDRRRlBESVR6UWxJT1Jvc1BGMEpERFU3MzhKem83eHhVRVc5X2FhV2w3WGRHbWtTa2ZBcFhPZTh0WDk3M1Zkb3hSdVlGNkVaMktRVWluajQ?oc=5"
         },
         {
-          "date": "2026-11-17",
-          "title": "반올림피자 먹고 아주르 프로밀리아 굿즈 받으세요 - 게임톡",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2Z25QdFFoLVBCeXg3QVRmWVZnSXRVUUxhT3VUS00tcmxWVGhfcmk4bkx2M0g3Z2ZuQUE4OFpTT2tCLXk3czZWMElFNFRhWnNEMWsxclVnTHpESThtLS15akZsQUFHZmZvNWExcg?oc=5"
+          "date": "2026-11-18",
+          "title": "넥슨, 26일 출시 '아주르 프로밀리아' 서울 주요 지역 옥외광고 캠페인 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93WGZ6OTVxTTlBUEhKTGdCZ2hmWDViaDlGQTZscVJSQzAzMWJ0RTNmRjNPdFltTmFUOUdKWmxjTEs3WEJFSk5vM2hKYVNpd0M4RFhRbUlZTzJKTHFx?oc=5"
         },
         {
-          "date": "2026-11-17",
-          "title": "출시 앞둔 아주르 프로밀리아, 반올림피자와 협업한다 - 게임메카",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POEN1STVKeEN0TmY2ajlUSEpTRzlCRGFNNkZlSnlIb1RTaEZwa1dYSXo5Y2sxT2ZDSXMyQkduekpDekxVN3B4bTMza2dsdWNONHhrVWs5WmXSAVtBVV95cUxNYU5lWEpLZEJhMGNpc25RclV0ZFZJcWxTaFpleVE4T1dWejJyNmJqcVRDYnRWUi1FWi1PZ2J2Vlk3aEtDVTRoa1lrTWlONGF2alhaa2lvdnJCeC1N?oc=5"
-        },
-        {
-          "date": "2026-11-17",
-          "title": "[게임 Pick] 넥슨, '아주르 프로밀리아' 반올림피자 협업…엔씨, '리니지 페스티벌' 티켓 추가 판매 - 라이센스뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHdUJsRzZVUUZVVnYxekRoUnl2S3dZejlSTndjaGVvZ0F1a0dCOW4tREd4cnE5bm5IejZaZ1ZfQS13SlhDM0t2ZUNfSkltZWpuSmJWQnk5MGR2dk0tdS02RXFpSkI1dzJmYVB3?oc=5"
+          "date": "2026-11-18",
+          "title": "[기획] '아주르 프로밀리아' 대규모 옥외광고로 출시 열기 고조 - 게임와이",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbmwtMGJlLVFmNnZQNXdOcG1SSFdodDBubnlxVnR6d3RXNkZ3UlE0bkQ0V1J0OF9NTXNBVW80STVkQVRnN244ZDVhMHlqMHYxQ0RnSnZoYmlOT1BlbE9YOU13QURUQdIBakFVX3lxTE5lQmdJcmxJTWQ1VzNZSXpoajFUQTlmeWJ5dmpWNmxkNXZuWGxRdS1zYk04ejZXaXhQUjQ1ZEUxWTgtRFB6aFNvYk9SMU5MS3BtazZTa0tweXF1ZmdlbThzQzVaNTRDSHREeHc?oc=5"
         }
       ]
     },
