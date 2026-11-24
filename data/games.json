@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,16 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-24",
+          "title": "넥슨, 26일 ‘아주르’·‘템빨’ 동시 출격…서브컬처·MMORPG 정조준 - 지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03bUQtZ2FmN2dDWlRiUXNPNTlrb2NXd21RVzZnWWxvdThaQ0dzY2QybUViOXRzd0cxT2NHdjFzMmo0eWhwOVpLMVRNUDFuaG1PV2dhWkl3?oc=5"
+        },
+        {
+          "date": "2026-11-24",
+          "title": "넥슨, 모바일 2개작 쌍끌이 공략 나선다 - 더게임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92aEl4M0EtQ3dkWHpqR3E5c2l1eVFxRTVRQkVwRTNSemRFRWpkNkUweXAwdWx3Z2tPSHVsY3pRT0NmVWFxUnA2cUU5eE9jdU5ReDVLWUdhR2FMSHZNSlRORGNkeWpNN3VfRThtRQ?oc=5"
+        },
         {
           "date": "2026-11-23",
           "title": "넥슨, 신작 '아주르 프로밀리아' 26일 출시 - 뉴스핌",
@@ -83,16 +93,6 @@
           "date": "2026-11-23",
           "title": "[금주의 게임일정] 넥슨 '아주르 프로밀리아' 26일 국내 정식 출시 - 게임포커스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkTG1wbVI2TGpWRDNSSGE0RkRfcVRURlhCWDU4TzV6SVpJb0x2cXZfV1ZkbkJINHNGTVZaVUpLY2FSVzJCZG9sZm1RbFFhVWNXZGF0Zkg0ZjgwbFdLS3lDZQ?oc=5"
-        },
-        {
-          "date": "2026-11-23",
-          "title": "\"만쥬가 새롭게 만들어 3000만 넘었쥬?\" 넥슨 신작 '아주르 프로밀리아' 정식 출시 기념 이벤트 일정 공개 - 게임포커스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PenpEa2ZYTWV5RHVRQlNMUlREanFXZDBKMjF3eVg1djR0VmJQYjNKbGE4dFo2VEtqMlFSY19FSjVWamN3Z1ZnS3R0ZXdkSTl1LWc2VC10ajBZYjRkbTlucQ?oc=5"
-        },
-        {
-          "date": "2026-11-22",
-          "title": "넥슨 ‘아주르 프로밀리아’, 글로벌 3000만과 함께 26일 출격 - 매경 게임진",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN0hnLXVyUTBuemdQVUQ3Z085OTBwbzVLLXRjTzZrclA3eHM2M0VnZlNGc3dmNFllTDdvTzd1M2NEVFlhUVQ2aHJSRDQ3TE55?oc=5"
         }
       ]
     },
@@ -165,6 +165,31 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wOG5LRUN3OTEwV2txdmRQdWNmNUl1d3FfQlBMU1l6WWExTmtWdWplZlRTWTFoWHVpT0h4Y3Y4MGV3Yl9PMVNuWk4wMjlhSnZvcGd1Uk5zeFZXQmJZSHJMcFgtQmRwQTh2TkE?oc=5"
         },
         {
+          "date": "2026-11-19",
+          "title": "＂알프가 알프했다!＂ 자기 사인 당첨된 채림 성우, 엘리멘타 ‘실버 팰리스’ 운영진의 유연한 대처 - 디시인사이드",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lSlQtUmNSOXFENkY0RkNEQWNUenpKelU5S0tBMVJMX2lGV3FGYk1zRVNpSDNEMXFJTlRBSGM2NjhyNk5kaU1STzEwVHhUWFNZZDB2bkJrTQ?oc=5"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "“뛰어난 재능의 발명가”… 엘리멘타 ‘실버 팰리스’, 천재 우등생 ‘틴슬리’ 공개 - 디시인사이드",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jWkMwN2gwSnZFeUh5cmR2bHJmNXowQXFZLVVCV3RLUlgtSzRna1lTdk02QzlXbGpmVV81OGpxSk00WlpYZW5xWmV6WFNLdkhYcFloVmFPUQ?oc=5"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "완벽한 메이드의 반례… 엘리멘타 ‘실버 팰리스’, 알프에 이은 또 한 명의 메이드 ‘페시’ 첫 공개 - 갤러리",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTkFySjAzRTlXa2doTjRUN002WXJSREpsdFlaOG4wQzY1U1pOT2M0c2d2WU95cXBWcHVDZDAwVzl1VG1CLUgtcDRxaW51SjFzMzJDWlBOOURwVXdWaGdEUVRpTWVVcU44WVpPR2JIeFZSb1BC?oc=5"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "편지에 마음 싣는 '침묵의 새'…엘리멘타 '실버 팰리스' 신규 캐릭터 '수잔' 공개 - 디시인사이드",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YZnFYYWpDZmx2TjBtcHVhVWtJa2hId1dSWEVoVUcyVVVvT0ZHRGQtUWZHSlNJQUpqbTBKOUNfVGhmZkUxYjBxUlp3Rjd1bXBIZjlXUzg3QQ?oc=5"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "모든 수수께끼를 눈에 담는다...엘리멘타 ‘실버 팰리스’, 바텐더이자 관찰자 ‘아르고스’ 심층 소개 - 디시인사이드",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zVndaZmdDZ1o5aFNTRTJMaTVLcUVjLWw3eXBjSllrNTd3VVdUbVg3OGtWSS04Vk5zUG85TFhSdUZDRVhnUmRsTjg1WV9OalFNX25nZnNGQQ?oc=5"
+        },
+        {
           "date": "2026-11-03",
           "title": "‘실버 팰리스’ 12월 14일 글로벌 동시 출시…PC·PS5·모바일서 크로스 플레이 즐긴다 - 위키트리",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3VDNlZXo5UUlPUFV6ME1hNExxNm9IaE5qd2tuM2RTMjdMSDF5WWVpUnZ1aTZiY3VBWlc4X1NuRE9fclhPdmhWVnM4RzhnbWZkazhnT3V3?oc=5"
@@ -208,31 +233,6 @@
           "date": "2026-11-02",
           "title": "엘리멘타 신작 '실버 팰리스' 12월 14일 글로벌 정식 출시 확정 - 게임와이",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MERJckpBZ21qczB3aDhaV3h0X3M3Qk1xaml1ZGtoVTRiN3dBZ3lZQTJFelR3NXhIRU1PWXFwV3JWOVZuNHNLYTRGRmVrSzJUdVoydGt3X2FxZTMxbzdpTS1YTUxjRk9CUHfSAWpBVV95cUxQOTBESXJKQWdtanMwd2g4Wld4dF9zN0JNcWppdWRraFU0Yjd3QWd5WUEyRXpUdzV4SEVNT1lxcFdyVjlWbjRzS2E0RkZla0syVHVaMnRrd19hcWUzMW83aU0tWE1MY0ZPQlB3?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "탐정이 된 서브컬처 RPG…`실버 팰리스`, 12월14일 글로벌 출시 - 디지털데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qWmZxVXRWQmE2QVc3VWwzVjJ4eEl1MnZCU3FKT1dJc3Y3R25LTktvb20xX3FaR1dKdXVRbjNpM0ZXcHJBT1pjbzVSWnpCVWFaU0U1dWZGLVlNWjByeG1oY0FMRXg?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "엘리멘타, 실버 팰리스 12월 14일 글로벌 정식 출시 - 베타뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BU1BfdWVrcmJ6bndkeEJ4UEFnakIyNWhESE9hS0U4MHA0S2dnb0JZS0R2UTBDV2FldWI5UEtjS25zWkdubHpRS1k0SXZqSEhWTlQzREQzTS1vRU42ZmNsRkliRHo?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "엘리멘타 '실버 팰리스' 12월 출시…게임업계, 신작·AI·글로벌 행사 확대 - 팝콘뉴스",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVXhBOFVBNU5WOUVRd2pmN0VPeDFCVFpqZWJCOHVWNnl1U25HV2g1aTlpR2hjQTlqZS1PSzkyU3FMamR3bnNQMVAwVlNlc1FVYW5DbkJ6bHdfSi0yTnIzajBkSDc1TU9Ubkc0VlVLY9IBckFVX3lxTFBzb1VKNXlhNl9sZlhVUFBIS3VQNTN6Y1Bfb3pFVTBYcy1SUjh1ZHU0bG00Tmd0eGtlMFpGLWh2QlFLRUNxTHRxQWtUeGNhOXh3d1ZTX21HVWlHUmt4c1BnWmx0TUFGX2xHMGFxVGs0NnFlUQ?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "글로벌 '정식 출시' 확정…엘리멘타, ‘실버 팰리스’ 출시 - 한스경제",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvRGgyWW9rX1hCWlBid3FxZ292UWNPcURXNmFRNEVRaUFjS2JfSFNNZkVuZVE0Z0x6dDZTNWdxOXJkTThzaDEyeFBmQW9YNGpSbzFGOThpR29fVjVYazA2aHJGVjE0OEUtbmNj?oc=5"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "엘리멘타, 액션 RPG 신작 ‘실버 팰리스’ 오는 12월 14일 출시 - PNN",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80b1ZUaVE0MmloV3V6WW1Cci1iQWRpYlBDdTBERUdaeFIzdDM4eGcxV1lITlpxekRoUGFwWnVsWmhaaEhQRUdKeTlaQ2ZheWlXc0hDVFhLUHJhMml2T0ZBdG94cXpzTVRu?oc=5"
         }
       ]
     },
