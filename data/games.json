@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "games": [
     {
       "id": "azur-promilia",
@@ -19,6 +19,31 @@
       "releaseNote": "한국·일본·대만·중국 출시. 영어판은 2027년 여름 오픈 베타 예정",
       "confidence": "high",
       "news": [
+        {
+          "date": "2026-11-28",
+          "title": "[체험기] '아주르 프로밀리아', 미소녀와 '키보'가 빚어낸 판타지 세계 - 뷰어스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUzJKOGU2WFZQbVZWRkRaemJQNnpfRGV5eU9ZR0JmLUtaQVlCRjJYWlgzaHdSeTM3eHJSVHo4RUd4aVNOWk5SZXlkR3VHSURObW1JTEVpUGM?oc=5"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "첫 주말부터 뜨거운 열기...'아주르' 반올림 팝업 모인 성림자들 - 플레이포럼",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WQWlyNHl4amFVcGZqWGJ3OUdvc3JpcnZtTWhLU2JWdWgtQUo5T0NSV01zVHBmU2VLNFk0anFXZ21OeVhlMl84MkhJcWUwMnQ0Vm90RklNb21wbUU2WGE5UHp5TmJ0NVlVTkc4ZQ?oc=5"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "[아주르 프로밀리아] 서브컬처 스트리머들에게 “첫날 소감 어떤가요?” - 게임톡",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzU1BreTV3YnFZRmFLaVB3ZVJHWWdXekdJOVhvRnd3NGl1LUpxeGEyRVp2TEJVSU1NeU9kekJsTnRRZE9MMGppNUpRUlFWN0UxOGY5WlY4S1BTZmRRQ2c0X29RQjRlbUJQaV9VQQ?oc=5"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "[현장] 아주르 프로밀리아, 도산소옥과 피자 한 판 어때요? - 게임플",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQUFfWUtoQ09zcktlYy1LTDRrUVBrMHpMUVpvZFA5MGJzdEI1bVptLS1rYTh3Uk40OTZGWVZYSk9CWWlvVVBjVmJQZEU2SG5XNmlMejVuSU1EMlROUmlMaXU2Z1gtRTU4aHZmSQ?oc=5"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "'아주르' 전용 영자 관측권 무료로 얻는 방법 - 플레이포럼",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QblRWSFNVLUdLUEZpSVFwOGZ6WGM2d3ZZWHd1TC1od1Z4UXBHZmVIUktoTG1WZFo4OVBBTThtZWNLZHh0SGN0Q0QzZDUwTzctQm16bUpwdDZqQWlJVjNoTkxfWXdLdHloSlhsNw?oc=5"
+        },
         {
           "date": "2026-11-27",
           "title": "모험 하나만으로도 즐거운 신세계 '아주르 프로밀리아' - 플레이포럼",
@@ -45,54 +70,29 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNWFZN0xGUGNmM193S0dwRnZpOFRkRlpXdHBFS2lhdEgtNVpnSDg5WFpSd01sa2RLTUdSWTFsQzhaaVNKLWUyd1drZk9fTVZCX2M3bEJ0TlpFSWVuU1FRbkN5Q0ZzbUUyUlItTA?oc=5"
         },
         {
-          "date": "2026-11-26",
-          "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRzhVcElSUHd0MjJwelVWblk1WDFxTk9rLWk4RlpTU2VKSTIzNEFwcWdET2EzSE8yeFYtbjVqMEcyNVpWUER3YlJVRGdINkdjSU9KWjVDcDZENnfSAWBBVV95cUxONDQwMWNtRjVzMFVXYWhueVhOaVMwSFRXTWhQV1Y1dWNQNTFId3RjT1c2bGxObXk2MzhiOUExaW5GMXRHTzllLUJCRGpCSWFteTRzUW1PR2RiOHpZc0dOdzM?oc=5"
+          "date": "2026-11-27",
+          "title": "[김 기자의 겜 어때?] 넥슨 '아주르 프로밀리아'…캐릭터에 끌리고 수집에 빠지다 - 1코노미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTm1Ya2FmLWlMUDBtZFdEc3JvNnNzaWlWU0JBTEY1VGFFV2pIcTZvTW9sTDBPOHVXblozZzBYSkpERmJnQ2lKUFFkX0NzVk1VdkRjUHVEdkxCaWJkaU5sV0hOT2N2MlplZmF4SWZlU28?oc=5"
         },
         {
-          "date": "2026-11-26",
-          "title": "넥슨 ‘아주르 프로밀리아’ 국내 출시…사전등록 3000만명 몰렸다 - 매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVlZpQkg0YTlrUEprd3Fndm1DMjQ0SWFUNEZYODhTV3dxS1NBTDdVUExXandaY2plODlwVXU2NVZENFVzSHg5b3dXZEtGODlWMmlmcTM3b25lRmpqV2RBNU1IaG8?oc=5"
+          "date": "2026-11-27",
+          "title": "‘아주르 프로밀리아’ 도산소옥 파티…5성 멧사 연계 : 기업·산업 - 재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UelhoSlczcnhzS2ZwZWRSZk5FaEZoZmZhcXlzMnVPTWxQMTVlRUF4bWo3bjlScFZpTkdBd2duZ1JrbXo4ajJJUjdOUQ?oc=5"
         },
         {
-          "date": "2026-11-26",
-          "title": "넥슨, '아주르 프로밀리아' 국내 출시…서브컬처 경쟁 합류 - 아이뉴스24",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uS3NJdVNLTzVKZmVHNHlhblE3NmVGTDhzMlR2Q0g4UGVWQ05lSHdGM25pUjg1NGxuNE9nNEJTNjlDb1RVbURodnBUMA?oc=5"
+          "date": "2026-11-27",
+          "title": "中 게임에 힘 실은 넥슨에 중소개발사 불만 고조 - 디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZUVJMY1I3UUd1Tzl5cGpnM1B2N1hycnBZenhhcFlwZmxZNHAxWnMtLXZuQUFGTkp0ZlNrMF9qS05EZTd4cUF4ZXR5amVJQUVoX3ZyQ2Rja29Kbnd5NndhejhYSjFtdw?oc=5"
         },
         {
-          "date": "2026-11-26",
-          "title": "넥슨, 판타지 RPG ‘아주르 프로밀리아’ 국내 정식 출시 - 애드뉴스인천",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Vc2xRb0JISG80VjFZdVZ6a2hKdVZORjFYeEY2UkZqMzVFaF9Uek9XS05UOVZ1X1NVTFFVNWZrZFVsWXh5VkUxWi00UFdlYnpVYXg2dDh6SjhBc0FfLWtxbDJKVDE2YXF2aFNz?oc=5"
+          "date": "2026-11-27",
+          "title": "전 세계가 인정한 '아주르 프로밀리아' 리세마라 1위 캐릭터 - 게임와이",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cc0NYWF93NFVGVEMxemV6ZGNNcmdpOVRqNWd2SmRjNEM5dVdoR3F0N3dOYWZ3RzlYOXFYaTBNWVFOZDNPdjJfUUdiUjRWR0k0TkN5RmQyN3FGZE1PVUFMYmdFX0pVQdIBakFVX3lxTE5BNmE5c0hvMlNyc0FHVGhKRjRtdTktRGJIMklfTnZBY0RqOEU4NWNOc1B1SGd1U05iaktjblU5RkJaZ1cwOWhhbUpjY292Q2ZUemw3aFR0c1lxSUxXSFBPQ3hQLWpjNWdLN2c?oc=5"
         },
         {
-          "date": "2026-11-26",
-          "title": "넥슨, '아주르 프로밀리아' 국내 출시…PC·모바일 동시 서비스 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRFNqQnhQSzBoRjl4U1Nfb1NGdFRVVEpuUWgyRUFCejBGR18xM0RlY3dhcjhkVVJmUkRFblZBM2IzWFdZZVdBSkc1dk5sZTVVT2M5Z25uQXBmMTFMSDZmamJvSkp1THFKQ19GadIBbEFVX3lxTE1DRFNqQnhQSzBoRjl4U1Nfb1NGdFRVVEpuUWgyRUFCejBGR18xM0RlY3dhcjhkVVJmUkRFblZBM2IzWFdZZVdBSkc1dk5sZTVVT2M5Z25uQXBmMTFMSDZmamJvSkp1THFKQ19GaQ?oc=5"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수 - IT조선",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6ZlUzMkJUNm05ZXFWc1J0RWwtQ0hJZHpUUjFoVzBqNmc1R2FNUVp1Wko1WWRJSFBNdzJic0hJVk1FaE42eUhjUXgxTVphR0tMbDk4cXJ5TTNlNUtpZzhKeVBRZms0TGRKZFFDdDFKaExEMWlU0gF0QVVfeXFMUHpmVTMyQlQ2bTllcVZzUnRFbC1DSElkelRSMWhXMGo2ZzVHYU1RWnVaSjVZZElIUE13MmJzSElWTUVoTjZ5SGNReDFNWmFHS0xsOThxcnlNM2U1S2lnOEp5UFFmazRMZEpkUUN0MUpoTEQxaVQ?oc=5"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "넥슨, 판타지 RPG '아주르 프로밀리아' 국내 정식 출시 - 지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DWWdxWDhMN2hMZDQxc3lWZ3REQS12Uzd0NkNpYkVRaUNxOHFwSmxWNUJDc0x1RFAzSXBkeEtodTRPNEhjWUpDOWhxZGY3ZEktOGVDLU9n?oc=5"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "넥슨, 신작 RPG '아주르 프로밀리아' 국내 정식 출시 - 뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52bTRHNnNSaHhpSE5DT0xJUGFlby1yMHg2eFlndjdmVTBhNUY4d3ByaDh0UDhnMGFVR2pVeDNicUdwb0ROTFRTaVJydjFDVDRKdFZkclNpcUZSRzMx?oc=5"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출격 - 중소기업신문",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nbWg0cDAyRndUMk1QQWZYOU9iV3JWbWhwLS1lYzZqdEFZNElueHU3RF81U2k2T0lyaEttdGFHMFhON2tzTmpQZjBLLVF2c1d0T1owVXJkMFlPUi1KdXhSRmZzLUh3WGJkTkI0Tw?oc=5"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "넥슨, 판타지 월드 RPG ‘아주르 프로밀리아’ 국내 정식 출시 - 뉴스드림",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HaWVYR2pDS0NvWmhhTU5oQTZPWGJST2NTNDFFTGlTRzdrMEY3NVJINzNrSUx3b29FVFRTU0tUZXYtSmF4R2l2d0pvRHRUR25tczg5REVHbHR1eDd5SWY3Nl8xdjdJRlV4TFJJ0gFuQVVfeXFMTWpSSEF4QS1qTm4zYlQya2VHcXNheXI4bTF1ZWxEMXd4aVZKa0Q4Z1VDbzg5ZzJuZWFKQmJ6LTY3b0NhSkhBaXlpaDF6dzg4QXNNQ2s3SThQb1R4WHlZYVRIVllHSk9YeVhkS21tTWc?oc=5"
+          "date": "2026-11-27",
+          "title": "넥슨 아주르 프로밀리아 정식 출시…AGF 참가 : 산업 - 재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VWUFNdXhCOURiUHNOSjVPNjN5bFZ5NTZFWnhUcGl1bjVmNmVuelR2N1FHSGJjUEtFMzROd0JUZHQySmo3ZG9VNTdiMA?oc=5"
         }
       ]
     },
@@ -269,6 +269,16 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqcWdqSm1Ec09FeDY1WktTcTdaWnViWEZkNi1qU2NXWUFZa3lOSVFiSHBfUDl2UFdtY3BlQnZnMjRnRVJfYXdMdXltejFBTGlJbTF6cXU3LWE3ay1oRUZfT2JXd1VlSTFadmc?oc=5"
         },
         {
+          "date": "2026-11-25",
+          "title": "넥슨, 신작 ‘파레이돌리아’ AGF 2026 부스 프로그램 공개 - 시사뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c2lNMmZ1TTRpenB1aHFaaVlDdmVFNzZYNHkxQVJGQUlnMFZnRVBUSG5hTTdHWWozSUpwTTN2MVlMZUxxTkFMaXRwYjA1ZWwzd3hLa2QySUFyVFFGMDZCZExfYw?oc=5"
+        },
+        {
+          "date": "2026-11-11",
+          "title": "[요즘 넥슨게임즈] 블루아카 5주년→ 파레이돌리아 시연 바통 - 게임와이",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NWUttTDhOdlVZZ0xlUjFxLVNpeWhhMEtpLXdqYXBPRDlHZFJJVF9EaUxRa1VHamZST3FfaHdVb3I5V2R0N3VPLWlJaTNNeEtoV3IxUGU2VUp4RmhfNzlWR3BMc2NNQdIBakFVX3lxTE9MZFhlTVlvX256bUhkUFRSVno4cVBHbkdUQlZUM3BqVTdCOEtGTGRHUjdXRE5mdnkxb1ZXWThMRGVlTkVRd2pURE8wWHN6amFMN04tc2RhTnkyYWNYNERrUG5VaEloV0NGQmc?oc=5"
+        },
+        {
           "date": "2026-11-03",
           "title": "서브컬처 판 키우는 넥슨…팬덤 늘릴까, 나눠 먹을까 - 블로그",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhaTZReWtxRnZ4R2NJTzBaTEpHdHlrQzlSdDl1X1dGb0tHanRBWVdSUVJpSWdiNTBiTUdJVi00YlNobkw5Q3NFWnlmckpGdWRyb3ZXLUJFVnBCR3oyREFlMS0waWJwaG12dV9GWWZFQXBYMmQtbERxOVB1QnlyU3M?oc=5"
@@ -299,6 +309,11 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JdHRobW9pTy15WkthNlhCUFdYcWRRUUlyenY1bkw5b013S2NZRlBSSFU3Sk5MRTRSdEFWRG5KVVpyS0ZSLVFPeVVyZ0JGQlhCUmtIdzl2Nll2QnJUVVZB?oc=5"
         },
         {
+          "date": "2026-10-25",
+          "title": "'블루 아카이브' 일본 서버, 요스타와 계약 종료…넥슨으로 이관 - 월요신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjZmtnNlQxWlVsTVNySzV5Ym5tNldYUTY3ZDd5VlNMNENFWGJnZmxtVUFRQlVHR1pVT0ZzUHJ2Y1FpcF9QMlBzR1EwSmE3TGVTemlCbzdUcEs4MmRrYTNTTTBlZkpOT1V0VEE?oc=5"
+        },
+        {
           "date": "2026-10-23",
           "title": "“파레이돌리아” 넥슨게임즈, 미소녀게임 ‘프로젝트RX’ 타이틀명 확정 - CatchNews",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DLW5pRkNkc2pvYWFmN2VVb1Y5SGJ1b2E4UkRtbXN5a1VWZVdITnU2ZFBBWk1mVi14dXlQMzdJcExRQzNCMnY0dGduU0JBeF9NZmZMSTZhX1dkcTlXcDdRRzBqQjc0UUphS3pJ0gFvQVVfeXFMTk5Dc3lWM2kwbHZNeHVNTWJzQ0s5Z050QlBJNnVfQVo4dmtyQlZ3Z1Fub19oNXZaSGZ4VE93MmxSaVJrSGdJTExVYWRGM2YxT2ZvXzNkc1F0STh0bW1Hdk9DLWJCcjN5NGcyUFhydDFN?oc=5"
@@ -317,21 +332,6 @@
           "date": "2026-10-06",
           "title": "\"게임 IP 외연 넓힌다\"…넥슨, '아크 레이더스·더 파이널스' 영화·TV로 확장 - 청년일보",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hRE5rb3JUeXpnU2N4dlQwY3lTR0ptRkFiYTZabGNQOWJMZG9KV2FvRlk1bnFhYnRUTERGQ3RxNndNYjhHcldyRllkUHBNSGR1WWFDS3hXdGNReXp4ajZnSGR1N1BHeEU?oc=5"
-        },
-        {
-          "date": "2026-10-01",
-          "title": "넥슨 10월 일정은? '템빨: 오버기어드' 사전등록·서든어택 챔피언십 시즌2 개막 - 창업일보",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WHB4M2RxSldGVmlsby1qYkxOX0ZpdnZQMVFIVFFUajVPQnFWQjEwX3pndGM1alI4M3VhV3V2bEpyVXhyN1F3LWNsUTl5SkhrX18ydnhZdjBVVGxpOU1PR0pWZllNdkZ3?oc=5"
-        },
-        {
-          "date": "2026-09-19",
-          "title": "[도쿄게임쇼 2026] 베일 벗는 넥슨 ‘파레이돌리아’…“감성적 밀도로 승부” : 네이버 블로그 - 블로그",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Rk9UdXVLUzJPNVM3cUdsTFdORzVwM3YtbjVaOTJYRURKLUVmRUJxQ19ZX1ZSc1RLeS1QWUhsRk9oYTVmSWNNTjFSSmw1TFpOLWRRbTdOM3RVUQ?oc=5"
-        },
-        {
-          "date": "2026-09-18",
-          "title": "모바일 사이트, 韓 3N+1S 출동! 日 TGS 삼킨다(5)넥슨G, 파레이돌리아 - 게임앤드",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZEUyejU5Qk9INkhlN3ZxNnl1Q29EOTA3MXVYMmhKUkhvRE9MUlhCQ1M0TldmUGN1UVFwMkVDMUR1UVpoQnFKTnBoNjltRmV5V2NLel9hVFlzckdwMkFBelFEM0cxQU0?oc=5"
         }
       ]
     }
